@@ -1,0 +1,6 @@
+nombre=(0,100)
+
+for i in range(0,100):
+  
+ if i !=26 and i !=37 and i  !=88: 
+        print(i)    
